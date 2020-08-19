@@ -1,3 +1,3 @@
 # Projeto Slide de imagens.
 
-![](gif-projeto.gif)
+<p align="center">![](gif-projeto.gif)</p>
